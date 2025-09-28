@@ -71,7 +71,7 @@ SegDep builds upon **HRNetv2-W32** with several extensions:
 
 
 <p align="center">
-  <img src="output.png" alt="output" width="70%">
+  <img src="outputs.png" alt="output" width="70%">
 </p>
 
 
