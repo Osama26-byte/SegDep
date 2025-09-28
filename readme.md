@@ -36,7 +36,7 @@ SegDep builds upon **HRNetv2-W32** with several extensions:
 ## 🔹 Architecture Diagram
 
 <p align="center">
-  <img src="SegDep_detailed.png" alt="Architecture" width="70%">
+  <img src="SegDep_detailed.png" alt="Architecture" width="70%", style="border: 1px solid black">
 </p>
 
 
@@ -71,7 +71,7 @@ SegDep builds upon **HRNetv2-W32** with several extensions:
 
 
 <p align="center">
-  <img src="outputs.png" alt="output" width="70%">
+  <img src="outputs.png" alt="output" width="70%", style="border: 1px solid black">
 </p>
 
 
