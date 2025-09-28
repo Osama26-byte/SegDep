@@ -34,7 +34,11 @@ SegDep builds upon **HRNetv2-W32** with several extensions:
 
 ## 🔹 Architecture Diagram
 
-![Architecture](SegDep_detailed.png)
+
+## 🔹 Architecture Diagram
+
+<img src="SegDep_detailed.png" alt="Architecture" width="70%">
+
 
 
 ## 🔧 Training Setup
