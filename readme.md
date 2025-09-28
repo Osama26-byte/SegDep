@@ -32,6 +32,11 @@ SegDep builds upon **HRNetv2-W32** with several extensions:
 
 ---
 
+## 🔹 Architecture Diagram
+
+![Architecture](SegDep_detailed.png)
+
+
 ## 🔧 Training Setup
 
 - **Dataset:** [Virtual KITTI 2 (VKITTI2)](https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-2/)  
