@@ -99,3 +99,5 @@ Using HRNet pretrained on **Cityscapes** provides:
 
 SegDep pushes multi-task learning beyond traditional perception by combining **geometry, semantics, and language grounding**.  
 By training on VKITTI2, the model achieves strong segmentation and depth results, while opening the door to **interactive, text-driven perception**.  
+
+✨ **Stay tuned — code will be released soon!** ✨
