@@ -52,14 +52,14 @@ SegDep builds upon **HRNetv2-W32** with several extensions:
 
 ## 📊Results on VKITTI2
 
-| Task | Metric | Performance |
-|------|--------|-------------|
-| **Segmentation (closed set)** | mIoU | **81%** |
-| **Depth estimation** | AbsRel | **0.08** |
-| | δ1 | **0.91** |
-| **Open-vocab segmentation** | mIoU (seen) | 81% |
-| | mIoU (synonyms) | 70% |
----
+| Task                     | Metric           | Performance |
+|--------------------------|------------------|-------------|
+| Segmentation (closed set) | mIoU             | 81%         |
+| Depth estimation         | AbsRel           | 0.08        |
+|                          | δ1               | 0.91        |
+| Open-vocab segmentation  | mIoU (seen)      | 81%         |
+|                          | mIoU (synonyms)  | 70%         |
+
 
 ## 🌍 Why Cityscapes Pretraining Matters
 
